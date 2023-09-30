@@ -1,0 +1,13 @@
+
+
+            body{
+                background-color:lightcyan;
+
+            }
+            hr{
+                background-color:yellow;
+                border-style:none;
+                border-top-style:dotted;
+
+                width:16px;
+            }
